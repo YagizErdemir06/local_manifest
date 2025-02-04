@@ -1,3 +1,3 @@
 ```bash
-   git clone https://github.com/Allien10X/local_manifest .repo/local_manifests
+   git clone https://github.com/YagizErdemir06/local_manifest .repo/local_manifests
 ```
