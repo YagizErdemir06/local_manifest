@@ -13,13 +13,13 @@
     <project path="hardware/mediatek" name="xiaomi-mediatek-devs/android_hardware_mediatek" remote="rem" revision="lineage-22.1" />
 
     <!-- device -->
-    <project path="device/xiaomi/rubyx" name="rubyx-devs/device_xiaomi_rubyx" remote="rem" revision="lineage-22.0" />
+    <project path="device/xiaomi/rubyx" name="AlphaDroid-devices/device_xiaomi_rubyx" remote="rem" revision="alpha-15.1" />
     <project path="device/xiaomi/miuicamera-rubyx" name="rubyx-devs/device_xiaomi_miuicamera-rubyx" remote="rem" revision="lineage-22.0" />
 
     <!-- vendor -->
-    project path="vendor/xiaomi/rubyx" name="rubyx-devs/vendor_xiaomi_rubyx" remote="rem" revision="lineage-22.0" />
+    project path="vendor/xiaomi/rubyx" name="AlphaDroid-devices/vendor_xiaomi_rubyx" remote="rem" revision="alpha-15.1" />
     project path="vendor/xiaomi/miuicamera-rubyx" name="rubyx-devs/vendor_xiaomi_miuicamera-rubyx" remote="rem" revision="lineage-22.0" />
 
     <!-- kernel -->
-    project path="kernel/xiaomi/mt6877" name="rubyx-devs/kernel_xiaomi_mt6877" remote="rem" revision="lineage-22.0" />
+    project path="kernel/xiaomi/mt6877" name="AlphaDroid-devices/kernel_xiaomi_mt6877" remote="rem" revision="alpha-15.1" />
 </manifest>
